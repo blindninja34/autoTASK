@@ -1,0 +1,595 @@
+GLOBAL TEST MULTIPLE TASKS
+s1;ADV Sc;041
+s1;ADV Sc;041
+s2;COV Sc;041
+s2;FC_Myc.gen;041
+s2;FCB Lactob;041
+s2;PPV 18 Sc;041
+s2;FC_Ur.parv;041
+s3;Camp OKI St;025
+s3;Enterovir.St;025
+s3;EIEC St;025
+s3;0669-13 t;025
+s3;Enterovir.St;025
+s4;FC_Trichom;041
+s4;FC_Chl.tr.;041
+s4;BOV Sc;041
+s4;BOV Sc;041
+s4;FC_Cand.par;041
+s5;Norovirus St;025
+s5;Salmon. s.St;025
+s5;0669-13 t;025
+s5;EHEC St;025
+s6;HSV 1 CS;010
+s6;Toxopl.g. CB;010
+s6;Mycopl.g. CS;010
+s6;Toxopl. g. B;010
+s7;PIV Sc;041
+s8;Inf B Sc;041
+s9;HIV CS;010
+s9;Toxopl. g MB;010
+s9;HCV gen B;010
+s10;FC_Myc.hom;041
+s10;RSV Sc;041
+s10;FC_Myc.hom;041
+s10;FCB Bact;041
+s10;FC_Ur.parv;041
+s11;Norovirus St;025
+s11;Norovirus St;025
+s11;Camp OKI St;025
+s11;EIEC St;025
+s11;Aden.OKI St;025
+s12;HIV CS;010
+s12;HCV B;010
+s12;HBV B;010
+s12;CMV B MB;010
+s12;HGV B;010
+s13;0669-12 t;025
+s14;HIV multi B;010
+s14;HCV gen B;010
+s15;Camp OKI St;025
+s16;HIV multi B;010
+s17;Chlam.tr. CS;010
+s17;Cand.alb. B;010
+s17;HIV quant B;010
+s17;HHV VI B;010
+s18;FC_Ur.parv;041
+s18;Ureap.ur. Sc;041
+s18;FC_Ur.ur.;041
+s18;FC_Cand.alb;041
+s19;Inf genot t;041
+s19;FC_Myc.gen;041
+s20;HIV B;010
+s21;FC_Ur.ur.;041
+s21;FC_Myc.hom;041
+s21;ARVI Sc t;041
+s21;Mycopl.h. Sc;041
+s21;FC_Ur.ur.;041
+s22;Inf B Sc;041
+s22;FC_Ur.parv;041
+s22;Inf B Sc;041
+s23;HCV B;010
+s23;Trepon.p. B;010
+s23;VEB;010
+s23;HBV quant B;010
+s24;HCV B MB;010
+s25;HBV CS;010
+s25;HSV 2 CS;010
+s25;VEB B;010
+s25;Ureap.sp. B;010
+s25;HHV VI CS;010
+s26;Trepon.p. Sc;041
+s27;FC_Ur.ur.;041
+s27;Candida a Sc;041
+s28;HIV B;010
+s28;Myc.tub. B;010
+s28;Ureap.sp. B;010
+s28;HSV 2 CS;010
+s29;HSV 1 CS;010
+s29;Ureap.sp. B;010
+s29;VEB B;010
+s29;HIV multi B;010
+s29;HCV CB;010
+s30;HIV CB;010
+s31;FC_Cand.kr;041
+s31;Ureapl.s. Sc;041
+s31;BOV Sc;041
+s31;FC_Myc.hom;041
+s32;HBV multi B;010
+s33;HCV B;010
+s33;HBV multi B;010
+s33;HSV 1,2 B;010
+s34;VEB CS;010
+s34;CMV B MB;010
+s34;Parvo B19 qB;010
+s34;Ureapl.ur. B;010
+s34;Toxopl. g. B;010
+s35;Ast.OKI St;025
+s35;0669-12 t;025
+s35;EHEC St;025
+s35;Rotavirus St;025
+s35;EPEC St;025
+s36;Trepon.p. CS;010
+s36;HCV multi B;010
+s36;Trepon.p. CS;010
+s36;HCV B;010
+s37;ARVI Sc t;041
+s37;FC_Chl.tr.;041
+s37;RV Sc;041
+s37;ARVI Sc t;041
+s37;COV Sc;041
+s38;Enterovir.St;025
+s38;DIAR_Ecoli t;025
+s38;Norovirus St;025
+s38;0669-13 t;025
+s38;EIEC St;025
+s39;COV Sc;041
+s40;HAV B;010
+s40;Toxopl. g MB;010
+s40;HAV B;010
+s40;PPV 18 CS;010
+s40;HHV VI CS;010
+s41;HIV B MB;010
+s41;HBV B MB;010
+s41;HSV 1,2 B;010
+s42;HIV multi B;010
+s42;Myc.gen. B;010
+s42;HIV CB;010
+s43;Enterovir.St;025
+s43;Astrovir St;025
+s44;Norovirus St;025
+s44;Shigella St;025
+s45;Ureap.sp. B;010
+s45;HBV B MB;010
+s45;HSV 2 B;010
+s45;CMV CB;010
+s45;CMV B MB;010
+s46;MPV Sc;041
+s46;Ureapl.s. Sc;041
+s46;Ureap.par. Sc;041
+s47;HIV multi B;010
+s47;VZV B;010
+s47;CMV CS;010
+s48;VEB;010
+s48;Neisser.g MB;010
+s49;HCV B;010
+s49;Trich.vag. B;010
+s49;HIV multi B;010
+s49;Trepon.p. CB;010
+s49;Neisser.g MB;010
+s50;Chlam.tr. Sc;041
+s50;FC_Myc.hom;041
+s51;Bordet.pp Sc;041
+s51;Candida a Sc;041
+s51;FC_Cand.kr;041
+s51;PPV 16 Sc;041
+s51;ARVI Sc t;041
+s52;VEB;010
+s52;HCV multi B;010
+s52;Ureapl.s. CS;010
+s52;Trepon.p. CS;010
+s53;Ureapl.s. CS;010
+s54;FCB_Enterob;041
+s54;FC_Nies.gon;041
+s55;Ast.OKI St;025
+s56;0669-13 t;025
+s56;Campylob St;025
+s57;CMV CS;010
+s57;Trepon.p. CS;010
+s57;HAV B;010
+s58;EPEC St;025
+s58;EPEC St;025
+s58;DIAR_Ecoli t;025
+s59;FC_Cand.par;041
+s60;HCV gen B;010
+s61;Shigella St;025
+s61;DIAR_Ecoli t;025
+s61;0669-13 t;025
+s61;EHEC St;025
+s62;DIAR_Ecoli t;025
+s63;Bordet3Sc t;041
+s63;FLOROC_18 t;041
+s63;Ureap.par. Sc;041
+s63;FC_Ur.parv;041
+s63;FCB Atopob;041
+s64;CMV quant B;010
+s64;HIV multi B;010
+s64;CMV CB;010
+s64;VEB quant B;010
+s64;HSV 1 CS;010
+s65;FLOROC_18 t;041
+s65;Inf B Sc;041
+s65;COV Sc;041
+s65;RSV Sc;041
+s65;Inf genot t;041
+s66;HSV 2 CS;010
+s66;HIV multi B;010
+s67;Parvo B19 qB;010
+s67;CMV quant B;010
+s67;HIV quant B;010
+s67;HIV CB;010
+s67;HBV B;010
+s68;HSV 1 B;010
+s68;HIV CB;010
+s68;VEB CS;010
+s69;Ureapl.ur. B;010
+s69;Mycopl.g. CS;010
+s69;Toxopl. g. B;010
+s70;HCV genot B;010
+s70;HSV 1 B;010
+s70;HIV CB;010
+s70;HIV CB;010
+s70;HBV multi B;010
+s71;FC_Str.sp.;041
+s71;FC_Nies.gon;041
+s71;FC_Ur.ur.;041
+s71;Inf genot t;041
+s72;COV Sc;041
+s73;EIEC St;025
+s74;VEB CS;010
+s74;HBV B MB;010
+s74;HCV CS;010
+s74;HGV B;010
+s74;VEB CS;010
+s75;Bordet.pp Sc;041
+s75;FC_Ur.ur.;041
+s75;FC_Nies.gon;041
+s76;ADV Sc;041
+s77;Inf A Sc;041
+s78;EHEC St;025
+s79;HBV B;010
+s79;Toxopl. g MB;010
+s79;Toxopl. g MB;010
+s80;HIV CB;010
+s80;VEB B;010
+s80;Trich.vag. B;010
+s81;FCB Lactob;041
+s81;MPV Sc;041
+s81;ARVI Sc t;041
+s82;VEB;010
+s82;Toxopl.g. CB;010
+s82;CMV B;010
+s83;Ureap.ur. Sc;041
+s83;Ureap.ur. Sc;041
+s83;ARVI Sc t;041
+s84;Bordet.br Sc;041
+s85;HHV VI B;010
+s85;Toxopl.g. CS;010
+s86;Toxopl.g. CS;010
+s86;Parvo B19 qB;010
+s86;HIV CS;010
+s87;ARVI Sc t;041
+s87;Bordet3Sc t;041
+s88;HSV 1,2 B;010
+s88;HBV multi B;010
+s88;HIV multi B;010
+s88;HSV 2 CS;010
+s89;COV Sc;041
+s90;Salmon. s.St;025
+s90;Noro.OKI St;025
+s90;EIEC St;025
+s90;0669-12 t;025
+s91;HHV VI B;010
+s91;HCV CB;010
+s91;HBV multi B;010
+s91;HIV quant B;010
+s92;CMV CS;010
+s93;HBV B MB;010
+s93;HIV B;010
+s93;HSV 2 CS;010
+s93;HBV CS;010
+s93;HIV quant B;010
+s94;FCB Atopob;041
+s94;Ureapl.s. Sc;041
+s94;FCB Bact;041
+s95;PIV Sc;041
+s95;COV Sc;041
+s95;Ureap.par. Sc;041
+s95;BOV Sc;041
+s96;HBV B;010
+s96;CMV quant B;010
+s96;HCV quant B;010
+s97;FC_Nies.gon;041
+s97;Ureapl.s. Sc;041
+s97;FCB_Zakl;041
+s98;FC_Myc.hom;041
+s98;FLOROC_18 t;041
+s98;ARVI Sc t;041
+s98;Ureapl.s. Sc;041
+s98;FC_Str.sp.;041
+s99;CMV quant B;010
+s99;Myc.hom. B;010
+s100;Myc.tub. B;010
+s101;FCB_Enterob;041
+s101;FC_Cand.alb;041
+s101;FC_Myc.gen;041
+s102;Trepon.p. Sc;041
+s102;FCB Lactob;041
+s103;PIV Sc;041
+s103;FC_Myc.hom;041
+s103;PPV 16 Sc;041
+s103;ARVI Sc t;041
+s103;FC_Cand.alb;041
+s104;PPV 16 Sc;041
+s105;HBV B MB;010
+s105;HCV B MB;010
+s105;VZV B;010
+s105;HCV quant B;010
+s106;HSV 1 B;010
+s106;HCV multi B;010
+s106;Neisser.g CS;010
+s107;FCB_Zakl;041
+s107;FC_Myc.hom;041
+s107;FC_Myc.gen;041
+s108;Mycopl.h. Sc;041
+s108;FCB Atopob;041
+s109;Ureapl.s. Sc;041
+s110;ARVI Sc t;041
+s110;Ureap.par. Sc;041
+s110;FC_Cand.gl;041
+s110;Bordet.br Sc;041
+s110;FCB Lactob;041
+s111;Salm.OKI St;025
+s111;Norovirus St;025
+s111;0669-12 t;025
+s112;ARVI Sc t;041
+s112;FC_Cand.par;041
+s113;Trepon.p. B;010
+s113;Trich.vag. B;010
+s113;HIV B MB;010
+s113;Toxopl. g MB;010
+s114;Norovirus St;025
+s115;Astrovir St;025
+s116;PPV 16 CS;010
+s117;FCB Atopob;041
+s117;PIV Sc;041
+s117;RV Sc;041
+s118;PPV 16 CS;010
+s119;Shigella St;025
+s119;Ast.OKI St;025
+s120;Enterovir.St;025
+s120;Shigella St;025
+s121;Toxopl. g. B;010
+s121;Chlam.tr. B;010
+s121;HSV 1 B;010
+s122;Trepon.p. CS;010
+s123;CMV quant B;010
+s124;Camp OKI St;025
+s124;DIAR_Ecoli t;025
+s124;Shi+EIEC St;025
+s124;Enterovir.St;025
+s125;FC_Nies.gon;041
+s125;FC_Ur.ur.;041
+s125;FLOROC_18 t;041
+s126;HBV multi B;010
+s126;HDV B;010
+s127;Toxopl.g. CS;010
+s127;Trepon.p. CS;010
+s127;Neisser.g CB;010
+s127;HCV CB;010
+s128;PIV Sc;041
+s128;PPV 18 Sc;041
+s129;Bordet3Sc t;041
+s129;Ureapl.s. Sc;041
+s130;HCV CB;010
+s130;VEB;010
+s130;Trepon.p. B;010
+s131;FC_Ur.ur.;041
+s132;Chlam.tr. B;010
+s132;PPV 16 CS;010
+s132;HSV 1 CS;010
+s132;Neisser.g CB;010
+s133;FC_Cand.gl;041
+s133;ADV Sc;041
+s133;PPV 16 Sc;041
+s134;0669-12 t;025
+s134;OKI St t;025
+s134;EPEC St;025
+s134;Ast.OKI St;025
+s134;Salmon. s.St;025
+s135;ARVI Sc t;041
+s135;ARVI Sc t;041
+s135;ARVI Sc t;041
+s135;MPV Sc;041
+s136;Myc.gen. B;010
+s136;CMV B MB;010
+s137;Inf B Sc;041
+s137;FCB_Bacvag t;041
+s138;Neisser.g CB;010
+s138;HHV VI B;010
+s138;CMV B MB;010
+s138;Ureap.sp. B;010
+s138;Ureapl.ur. B;010
+s139;FC_Ur.parv;041
+s139;FC_Staph;041
+s139;FCB_Zakl;041
+s139;FCB Atopob;041
+s140;PIV Sc;041
+s140;FC_Ur.parv;041
+s140;ARVI Sc t;041
+s141;HHV VI CS;010
+s141;CMV CB;010
+s141;HIV multi B;010
+s142;HHV VI B;010
+s142;Trich.vag. B;010
+s143;Myc.tub. B;010
+s143;HBV B;010
+s143;HCV multi B;010
+s144;FCB_Enterob;041
+s145;Campylob St;025
+s146;Campylob St;025
+s146;Campylob St;025
+s146;Ast.OKI St;025
+s146;Astrovir St;025
+s147;RSV Sc;041
+s147;BOV Sc;041
+s147;FC_Ur.parv;041
+s147;FC_Chl.tr.;041
+s148;0669-13 t;025
+s148;EPEC St;025
+s149;Rotavirus St;025
+s149;EPEC St;025
+s150;0669-12 t;025
+s150;Campylob St;025
+s150;Campylob St;025
+s151;Mycopl.h. Sc;041
+s151;Trichom.v Sc;041
+s151;FCB Lactob;041
+s152;OKI St t;025
+s152;Norovirus St;025
+s153;HBV CB;010
+s153;HCV gen B;010
+s154;Mycopl.h. Sc;041
+s154;FC_Cand.gl;041
+s154;Ureapl.s. Sc;041
+s155;BOV Sc;041
+s155;ADV Sc;041
+s155;Bordet.br Sc;041
+s155;FLOROC_18 t;041
+s155;FC_Ur.ur.;041
+s156;FC_Cand.alb;041
+s156;FCB_Enterob;041
+s156;FC_Ur.ur.;041
+s156;ARVI Sc t;041
+s157;0669-12 t;025
+s157;Salmon. s.St;025
+s157;Salm.OKI St;025
+s158;Rotav.OKI St;025
+s158;EPEC St;025
+s158;Aden.OKI St;025
+s158;EHEC St;025
+s159;FC_Ur.ur.;041
+s159;FC_Ur.parv;041
+s159;Ureap.par. Sc;041
+s159;Ureap.ur. Sc;041
+s159;FC_Myc.hom;041
+s160;HIV B MB;010
+s161;HBV CS;010
+s161;HDV B;010
+s161;Mycopl.g. CS;010
+s161;HCV CB;010
+s161;VEB;010
+s162;Myc.tub. B;010
+s162;HCV multi B;010
+s162;CMV CB;010
+s162;HBV CB;010
+s162;PPV 16 CS;010
+s163;PPV 16 Sc;041
+s163;FC_Cand.gl;041
+s163;Inf genot t;041
+s163;Chlam.tr. Sc;041
+s164;Ureap.par. Sc;041
+s164;FCB_Zakl;041
+s164;FC_Ur.ur.;041
+s165;PPV 16 CS;010
+s165;HIV quant B;010
+s165;HAV B;010
+s166;HCV gen B;010
+s166;HSV 1 CS;010
+s167;HIV CS;010
+s167;Parvo B19 qB;010
+s168;Ureapl.ur. B;010
+s168;HAV B;010
+s168;Neisser.g MB;010
+s169;Inf A Sc;041
+s169;Ureap.ur. Sc;041
+s169;PIV Sc;041
+s169;FC_Cand.kr;041
+s169;FC_Ur.parv;041
+s170;ARVI Sc t;041
+s170;FC_Ur.parv;041
+s170;RSV Sc;041
+s170;FC_Chl.tr.;041
+s171;Rotav.OKI St;025
+s172;CMV B MB;010
+s173;HCV multi B;010
+s173;Cand.alb. B;010
+s174;HSV 1,2 Sc;041
+s174;Ureap.ur. Sc;041
+s175;HSV 2 CS;010
+s175;HIV multi B;010
+s175;VEB B;010
+s175;CMV CS;010
+s176;Inf B Sc;041
+s177;Ureap.par. Sc;041
+s177;Inf B Sc;041
+s177;Ureap.ur. Sc;041
+s177;ARVI Sc t;041
+s178;FC_Myc.hom;041
+s178;FC_Ur.ur.;041
+s179;FC_Staph;041
+s179;Ureap.ur. Sc;041
+s179;FC_Str.sp.;041
+s179;FCB_Zakl;041
+s179;FC_Cand.gl;041
+s180;Noro.OKI St;025
+s180;Norovirus St;025
+s180;EAgEC St;025
+s180;0669-13 t;025
+s180;EPEC St;025
+s181;FC_Cand.gl;041
+s181;PIV Sc;041
+s181;FC_Nies.gon;041
+s181;FCB_Enterob;041
+s182;Ureap.sp. B;010
+s182;CMV CB;010
+s182;Ureap.sp. B;010
+s182;VEB quant B;010
+s183;Norovirus St;025
+s183;EIEC St;025
+s183;Astrovir St;025
+s183;ETEC St;025
+s183;DIAR_Ecoli t;025
+s184;FCB Bact;041
+s184;FCB Gardner;041
+s184;PIV Sc;041
+s184;PIV Sc;041
+s185;FC_Chl.tr.;041
+s185;Inf B Sc;041
+s185;PIV Sc;041
+s185;FC_Ur.parv;041
+s185;FC_Str.sp.;041
+s186;Chlam.tr. CS;010
+s186;Neisser.g MB;010
+s186;HCV CB;010
+s187;VEB B;010
+s187;Chlam.tr. B;010
+s187;HDV B;010
+s187;HIV CS;010
+s188;Noro.OKI St;025
+s188;Astrovir St;025
+s188;Enterovir.St;025
+s188;Astrovir St;025
+s188;Salm.OKI St;025
+s189;RV Sc;041
+s189;ADV Sc;041
+s189;FC_Cand.alb;041
+s190;HCV B;010
+s190;Neisser.g CS;010
+s190;HSV 1 CS;010
+s191;Enterovir.St;025
+s191;Camp OKI St;025
+s191;Ast.OKI St;025
+s191;Camp OKI St;025
+s192;EIEC St;025
+s192;Aden.OKI St;025
+s192;0669-13 t;025
+s193;FC_Myc.gen;041
+s193;ARVI Sc t;041
+s193;Ureap.par. Sc;041
+s194;Camp OKI St;025
+s194;EAgEC St;025
+s195;FC_Cand.kr;041
+s195;HSV 1,2 Sc;041
+s196;FLOROC_18 t;041
+s197;Toxopl. g. B;010
+s198;0669-13 t;025
+s198;Salm.OKI St;025
+s199;Ureap.sp. B;010
+s199;Chlam.tr. CS;010
+s199;Ureapl.s. CS;010
+s199;CMV quant B;010
+s200;Trepon.p. Sc;041
+s200;FCB_Enterob;041
+s200;Bordet.pp Sc;041
+s200;FCB Atopob;041
